@@ -17,8 +17,8 @@ This project simulates physics-based quadcopter drones physically constrained to
 ### Use
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/SAtiqK/MultiUAVwithPayload_UEsimulation.git
-   cd MultiUAVwithPayload_UEsimulation
+   git clone https://github.com/SAtiqK/UAVs_PL_sim.git
+   cd UAVs_PL_sim
 2. **Open in Unreal Engine:**
    Double-click WActualDrone.uproject to open in Unreal Engine.
 3. **Set up ROS Integration:**
